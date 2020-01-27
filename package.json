@@ -1,7 +1,7 @@
 {
-  "name": "template-javascript",
+  "name": "diagnostics-javascript-i",
   "version": "0.0.0",
-  "description": "JavaScript template",
+  "description": "Diagnostics for beginning JavaScript programmers to test their own understanding",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jfarmer/template-javascript.git"
+    "url": "git+https://github.com/jfarmer/diagnostics-javascript-i.git"
   },
   "keywords": [
     "javascript",
@@ -29,7 +29,7 @@
   "author": "Jesse Farmer <jesse@20bits.com>",
   "license": "CC-BY-SA-4.0",
   "bugs": {
-    "url": "https://github.com/jfarmer/template-javascript/issues"
+    "url": "https://github.com/jfarmer/diagnostics-javascript-i/issues"
   },
-  "homepage": "https://github.com/jfarmer/template-javascript#readme"
+  "homepage": "https://github.com/jfarmer/diagnostics-javascript-i#readme"
 }
