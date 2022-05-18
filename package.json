@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "description": "Diagnostics for beginning JavaScript programmers to test their own understanding",
   "main": "index.js",
-  "dependencies": {},
   "devDependencies": {
     "eslint": "^8.15.0",
     "eslint-config-standard": "^17.0.0",
