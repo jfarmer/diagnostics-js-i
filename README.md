@@ -42,7 +42,7 @@ For each example, do the following:
 1. Compare your expectations with what is actually printed.
 1. If your predictions disagree with observation, come up with 1-3 different ideas for how you might be confused.
 
-Seriously, **write** down your predictions first. You *will* fool yourself if you don't make your predictions concrete. You don't need to write down the whole sprint being printed — that's why we included the number — but make sure to include the value of any dynamic data.
+Seriously, **write** down your predictions first. You *will* fool yourself if you don't make your predictions concrete. You don't need to write down *exactly* what will be printed — that's why we included the number — but make sure to include the value of any dynamic data.
 
 ### Control Flow Worked Example
 
