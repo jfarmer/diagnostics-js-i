@@ -4,12 +4,12 @@
   "description": "Diagnostics for beginning JavaScript programmers to test their own understanding",
   "main": "index.js",
   "devDependencies": {
-    "eslint": "^8.15.0",
+    "eslint": "^8.39.0",
     "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-import": "^2.27.5",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^6.0.0",
-    "jsdoc": "^3.6.10"
+    "eslint-plugin-promise": "^6.1.1",
+    "jsdoc": "^4.0.2"
   },
   "scripts": {
     "docs": "npx jsdoc -c ./.jsdoc.conf.json",
